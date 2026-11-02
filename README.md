@@ -27,12 +27,16 @@ O objetivo é criar uma página web para reunir cinco sites favoritos, utilizand
 - Links para acessar os sites.
 - Organização dos elementos na página.
 
+## Captura de tela do projeto
+
+![Página Meus Sites Favoritos](pagina-final.png)
+
 ## Como executar
 
 1. Faça o download ou clone este repositório.
 2. Abra a pasta do projeto no Visual Studio Code.
 3. Abra o arquivo `index.html` no navegador.
-4. Navegue pelos links dos seus sites favoritos.
+4. Acesse os links dos seus sites favoritos.
 
 ## Autora
 
